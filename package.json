@@ -1,0 +1,32 @@
+{
+  "name": "browserhistory",
+  "version": "0.1.0",
+  "description": "personal browser history deployed to azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HansS/browserhistory.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript",
+    "ExpressJs",
+    "MongoDb",
+    "AngularJs"
+  ],
+  "author": " <hans.schenker@windowslive.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansS/browserhistory/issues"
+  },
+  "homepage": "https://github.com/HansS/browserhistory",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "should": "^4.4.2",
+    "sinon": "^1.12.2"
+  }
+}
